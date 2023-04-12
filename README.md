@@ -2,9 +2,9 @@
 ----------
 
 Bash-скрипты. номера соответствуют заданию:
- - Tasks_BASH_t1
- - Tasks_BASH_t2
- - Tasks_BASH_t3
+ - Tasks_BASH_t1.txt
+ - Tasks_BASH_t2.txt
+ - Tasks_BASH_t3.txt
  
 
 Tasks_Linux_Report.docx - файл отчёта по task1
